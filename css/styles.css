@@ -33,7 +33,7 @@ body {
 	text-align: right;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 760px) {
 	.header h1,
 	.header h4 {
 		text-align: center;
@@ -58,14 +58,14 @@ body {
 	text-align: center;
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 760px) {
 	.pic1 img {
 		height: 500px;
 		width: 100%;
 	}
 }
 
-@media screen and (min-width: 991px) {
+@media screen and (min-width: 990px) {
 	.title {
 		text-align: left;
 	}
