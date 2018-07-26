@@ -1,0 +1,99 @@
+body {
+	font: 14px 'Lato', sans-serif; 
+	background-color: #FEF7F7;
+	background-image: url(/home/wanjiru/Desktop/portfolio/image/pic4.jpg);
+}
+
+/* header */
+.header {
+	margin-top: 10px;
+}
+
+.header h1 {
+	font-family: 'Press Start 2P', cursive;
+	font-weight: 300;
+	text-transform: uppercase;
+    color:#F0161B;
+}
+
+.header h4 {
+	font-family: Monoton;
+	text-transform: uppercase;
+	font-weight: bold;
+	color: #F0161B;
+
+}
+
+.header img {
+	height: 125px;
+}
+
+.header h1,
+.header h4 {
+	text-align: right;
+}
+
+@media screen and (max-width: 768px) {
+	.header h1,
+	.header h4 {
+		text-align: center;
+	}
+	.header img {
+		margin: auto;
+	}
+}
+
+.sepreator {
+	border-top: 4px solid #f9e491;
+}
+
+/* content */
+.feature-work {
+	margin: 10px 0;
+	color:#F0161B; 
+	
+}
+
+.title {
+	text-align: center;
+}
+
+@media screen and (min-width: 768px) {
+	.pic1 img {
+		height: 500px;
+		width: 100%;
+	}
+}
+
+@media screen and (min-width: 991px) {
+	.title {
+		text-align: left;
+	}
+}
+
+.project {
+	margin: 10px 0;
+}
+
+.project img {
+	cursor: pointer;
+}
+
+.project h3 {
+	text-align: center;
+	text-transform: lowercase;
+}
+
+.project p {
+	text-align: center;
+}
+
+/* footer */
+.footer {
+	margin-top: 10px;
+	text-align: center;
+	background-color: #ccc;
+	padding: 10px 0;
+	text-transform: uppercase;
+	font-weight: bold;
+}
