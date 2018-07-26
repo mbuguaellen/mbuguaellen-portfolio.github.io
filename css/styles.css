@@ -13,7 +13,7 @@ body {
 	font-family: 'Press Start 2P', cursive;
 	font-weight: 300;
 	text-transform: uppercase;
-    color:#F0161B;
+    	color:#F0161B;
 }
 
 .header h4 {
@@ -43,7 +43,7 @@ body {
 	}
 }
 
-.sepreator {
+.line {
 	border-top: 4px solid #f9e491;
 }
 
