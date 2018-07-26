@@ -1,11 +1,10 @@
 # Portfolio
 
 ##### Overview
-Udacity-Front end developer project 1.
-.
+Udacity-Front end developer project1
 
 
-#####  Live view **click** [here](http://mbuguaellen.github.io/)
+
 
 
 
