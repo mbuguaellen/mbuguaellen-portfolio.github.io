@@ -4,7 +4,6 @@ body {
 	background-image: url(pic4.jpg);
 }
 
-/* header */
 .header {
 	margin-top: 10px;
 }
@@ -29,7 +28,7 @@ body {
 }
 
 .header h1,
-.header h4 {
+.header h2 {
 	text-align: right;
 }
 
@@ -47,7 +46,6 @@ body {
 	border-top: 4px solid #f9e491;
 }
 
-/* content */
 .feature-work {
 	margin: 10px 0;
 	color:#F0161B; 
@@ -88,11 +86,11 @@ body {
 	text-align: center;
 }
 
-/* footer */
+
 .footer {
 	margin-top: 10px;
 	text-align: center;
-	background-color: #ccc;
+	background-color: #b78845;
 	padding: 10px 0;
 	text-transform: uppercase;
 	font-weight: bold;
